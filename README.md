@@ -1,6 +1,6 @@
 # Hi there 👋, My name is Anubhav Singh
 
-<img width="100%" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2eqK3aSWINljYGq9fxx-nM&ust=1717100805953000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPCWyY7Zs4YDFQAAAAAdAAAAABAE](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)" alt="my banner">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="my banner">
 
 A passionate developer from India
 
